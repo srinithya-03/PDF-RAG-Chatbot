@@ -30,4 +30,4 @@ Install the required libraries:
 `streamlit run app.py`
 
 ## Author
-Nithya
+Srinithya Murupoju
